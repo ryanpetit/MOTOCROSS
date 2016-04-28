@@ -1,3 +1,11 @@
 this is a useless text file
 
+<<<<<<< HEAD
 created by Ryan Petit
+=======
+Sup dude, its your boy Max Sedor. 
+The Dodgers are gonna the World Series, boy.
+Sorry the Giants suck, boy.
+
+created by ryan P
+>>>>>>> master
