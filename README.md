@@ -1,2 +1,3 @@
-# MOTOCROSS
-MOTOCROSS is an amazing action sport!
+this is a useless .txt file
+
+created by Max Sedor
